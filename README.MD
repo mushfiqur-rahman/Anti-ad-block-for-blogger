@@ -17,4 +17,6 @@
 
 6. Click on Save the Theme
 
-7. Now Refresh your Website. It will looks like as blow image
+7. Now Refresh your Website. It will looks like as below image
+
+![adblocker](https://user-images.githubusercontent.com/26889268/223098820-55a6f305-0979-4ba5-a8a9-789d236b7a67.png)
